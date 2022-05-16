@@ -53,12 +53,12 @@ function App() {
                             },
                             largeImage: {
                                 src: img,
-                                width: 1200,
+                                width: 1000,
                                 height: 1800,
                             },
                             enlargedImageContainerDimensions: {
-                                width: '100%',
-                                height: '100%',
+                                width: '150%',
+                                height: '150%',
                             },
                         }}
                     />
